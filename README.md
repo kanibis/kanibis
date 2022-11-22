@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Kanishk Bisen, a Btech graduate from IIIT Guwahati and an aspiring Data Analyst.
-- 👀 I’m interested in analysing data and converting them into meaningful and actionable business insights
-- 🌱 I’m currently learning Python, SQL, Excel and Tableau as I'm looking to make mark in Data Analytics.
+- 👋 Hi, I’m Kanishk Bisen, a Btech graduate from IIIT Guwahati and an aspiring Front-end Developer.
+- 👀 I’m interested in building amazing websites and giving users the best customer experience.
 - 📫 How to reach me: Gmail - bisenkanishk16@gmail.com
 
 <!---
